@@ -1,0 +1,22 @@
+{
+  "name": "dz22",
+  "description": "",
+  "version": "0.0.0",
+  "private": true,
+  "repository": "",
+  "license": "",
+  "stackblitz": {
+    "startCommand": "npm start"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "npm run build"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5",
+    "vite": "^5.0.4",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.2"
+  }
+}
